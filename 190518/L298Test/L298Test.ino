@@ -17,20 +17,20 @@ void loop() {
   digitalWrite(IN3, HIGH);
   digitalWrite(IN2, LOW);
   digitalWrite(IN4, LOW);
-  delay(1000);
+  delay(2000);
   digitalWrite(IN1, LOW);
   digitalWrite(IN3, LOW);
   digitalWrite(IN2, LOW);
   digitalWrite(IN4, LOW);
-  delay(1000);
+  delay(2000);
   digitalWrite(IN1, LOW);
   digitalWrite(IN3, LOW);
   digitalWrite(IN2, HIGH);
   digitalWrite(IN4, HIGH);
-  delay(1000);
+  delay(2000);
   digitalWrite(IN1, LOW);
   digitalWrite(IN3, LOW);
   digitalWrite(IN2, LOW);
   digitalWrite(IN4, LOW);
-  delay(1000);
+  delay(2000);
 }
